@@ -1,0 +1,18 @@
+{
+  "name": "devtools_bug",
+  "version": "1.0.0",
+  "description": "Trying to replicate a bug in chrome devtools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "devtools",
+    "bug"
+  ],
+  "author": "Michael van der Kamp <michael.vanderkamp@usask.ca>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
