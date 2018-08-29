@@ -37,7 +37,7 @@ only seems to occur if pointer event listeners are not registered.
   * __Chrome version__:
       Chromium 68.0.3440.106 Built on Ubuntu , running on Ubuntu 16.04
   * __Operating System__:
-      Linux hciplant-Z68M-D2H 4.15.0-33-generic #36~16.04.1-Ubuntu SMP 
+      Linux 4.15.0-33-generic #36~16.04.1-Ubuntu SMP 
       Wed Aug 15 17:21:05 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
 * __Mobile device__:
   * __Chrome version__:
